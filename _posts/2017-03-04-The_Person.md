@@ -179,6 +179,45 @@ img.emoji {
 	既然事实如此，作为内容生产者，需要做的可能不是呼吁读者付费，而是给读者提供有认同感的服务，把服务卖给认同服务价值的人。</p>
 
 
+
+
+
+    <div id="secondary" class="col-md-4" role="complementary" >
+    
+            <aside id="enhancedtextwidget-3" class="widget widget_text enhanced-text-widget">
+                <h3 class="widget-title">
+
+                    <i class="glyphicons icon-show-lines"> </i>
+                    作者
+                </h3>
+
+                <div class="textwidget widget-text"><div id="author_i">
+
+        <div class="author_av">
+
+            <img alt='' src='https://secure.gravatar.com/avatar/ef0a84e8fb973390d0a7eb34f3d35ef3?s=60&#038;d=monsterid&#038;r=x' srcset='https://secure.gravatar.com/avatar/ef0a84e8fb973390d0a7eb34f3d35ef3?s=120&amp;d=monsterid&amp;r=x 2x' class='avatar avatar-60 photo' height='60' width='60' />
+
+        </div>
+
+        <div class="po_author">
+
+            <a href="http://fussen.cc/about" title="由Fussen发布" rel="author">
+
+                Fussen
+
+            </a>
+            <br/>
+
+     </div>
+
+
+
+
+
+
+
+
+
 		
 		
 <div id="secondary" class="col-md-4" role="complementary">
