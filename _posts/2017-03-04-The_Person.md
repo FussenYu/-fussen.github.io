@@ -10,6 +10,20 @@ description: 多写一点，有好处啊
 
 
 
+
+<article id="post-3552" class="no-featured-image post-3552 post type-post status-publish format-standard hentry category-3 tag-672 tag-620 tag-673 tag-286">
+						
+				<div class="">
+
+				    	<h1 class="entry-title">
+					为什么微信必须做付费订阅及可能怎么做			</h1>
+
+				    <div class="entry-content">
+				    
+					    <p>
+
+
+
 ## 说明
 现在市场的应用都会有查看头像或者照片墙的功能，很简单的一个功能，但是呢，你可以打开市场上的应用比较一下，其实微信的查看图片功能做的非常不错，今天就实现类似于微信的查看图片的功能
 ## 效果
