@@ -50,7 +50,7 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : fussen.cc
+    short_name : fussen
   disqus :
       short_name :
 
