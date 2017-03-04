@@ -231,6 +231,15 @@ img.emoji {
 
 
 
+
+<section label="Copyright Jason Ng of Kenengba and knbknb" style="box-sizing: border-box; background-color: rgb(255, 255, 255);"><section label="Copyright Jason Ng of Kenengba and knbknb" style="   box-sizing: border-box; "><section label="Copyright Jason Ng of Kenengba and knbknb" style=" margin-top: 10px; margin-bottom: 10px;  box-sizing: border-box; "><section label="Copyright Jason Ng of Kenengba and knbknb" style="box-sizing: border-box; text-align: center;"><section label="Copyright Jason Ng of Kenengba and knbknb" style="display: inline-block;vertical-align: top;padding: 8px 5px 5px 3px;width: 50%;box-sizing: border-box;border-right: 1px solid #66CCC5;"><section style="box-sizing: border-box;"><section label="Copyright Jason Ng of Kenengba and knbknb" style="margin-top: 0.5em; margin-bottom: 0.5em; box-sizing: border-box;"><section style="box-sizing: border-box;width: 4em;height: 4em;display: inline-block;vertical-align: bottom;border-radius: 100%;background-image: url(&quot;http://mmbiz.qpic.cn/mmbiz_jpg/xpE6LLZTjLiaoPenWx006CxEtruibqLO54glsy73OJr0394ibXicia5xSRLXO30wn8GdpL4GRl1xibsUFCV1yiaX3iaoow/0?wx_fmt=jpeg&quot;);background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;" class=""><br  /></section><p><span style="font-size: 14px;color: rgb(102, 204, 197);line-height: 1.6;">阿禅 Jason Ng</span></p></section></section></section><section label="Copyright Jason Ng of Kenengba and knbknb" style="display: inline-block;vertical-align: top;padding: 6px;width: 50%;box-sizing: border-box;"><section style="box-sizing: border-box; border-width: 1px; border-style: solid; border-color: rgb(102, 204, 197); padding: 8px 5px; width: 120px; color: rgb(102, 204, 197); border-radius: 2px; margin: auto; line-height: 20px; font-size: 14px;"><p>读完需要</p><section style="font-size: 30px;color:#666;line-height: 32px;">15</section>分钟<p style="font-size: 11px;color:#aaa;padding-top:3px;">速读仅需 3 分钟</p></section></section></section></section></section></section>
+
+
+
+
+
+
+
 		
 <div class="row">
 			<div class="col-lg-12">
