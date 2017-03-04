@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "一路走来，谁都不容易，我也是 "
-header-img: "img/green.jpg"
+header-img: "img/me.jpg"
 ---
 
 
