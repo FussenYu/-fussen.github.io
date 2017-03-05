@@ -58,6 +58,7 @@ counter-reset: h2num;
     margin-left: -30px;
     border-left: 50px solid #299480;
     padding-left: 0;
+    padding: 6px;
     margin-bottom: 20px;
     counter-increment: h2num;
     counter-reset: h3num;    
