@@ -51,7 +51,7 @@ h1.entry-title {
 counter-reset: h2num;
 }
 
-  h2{
+  h2.entry-title{
 
         color: white;
     background: #49C895;
@@ -63,7 +63,7 @@ counter-reset: h2num;
     counter-reset: h3num;    
   }
 
-  h2:before{
+  h2.entry-title:before{
            content: counter(h2num);
     font-weight: bold;
     margin-left: -50px;
@@ -72,7 +72,7 @@ counter-reset: h2num;
     width: 50px;
     margin-right: 10px;
   }
-  h3 {background: #26c6da;
+  h3.entry-title {background: #26c6da;
     padding: 6px;
     color: white;
     border-left: 50px #1A95A5 solid;
@@ -82,7 +82,7 @@ counter-reset: h2num;
     counter-increment: h3num;}
 
 
-    h3:before {
+    h3.entry-title:before {
 
         content: counter(h2num)"."counter(h3num);
         font-weight: bold;
