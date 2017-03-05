@@ -40,7 +40,7 @@ margin-right: -17px;`
   color: #777;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1.entry-title, h2.entry-title, h3.entry-title, h4.entry-title, h5.entry-title, h6.entry-title {
      color: #3AAA7D;
   font-family: sans-serif;
   font-weight: normal;
