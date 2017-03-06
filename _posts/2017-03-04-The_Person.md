@@ -254,7 +254,6 @@ body {
   background: #eee;
   font-size: 16px;
   left: 0;
-  padding-top: 50px;
 }
 </style>
 
