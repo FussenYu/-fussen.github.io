@@ -46,11 +46,11 @@ h1.entry-title, h2.entry-title, h3.entry-title, h4.entry-title, h5.entry-title, 
 }
 
 
-h1.entry-title {
+h1.entry-content {
 counter-reset: h2num;
 }
 
-  h2.entry-title{
+  h2.entry-content{
 
          color: white;
     background: #49C895;
@@ -62,7 +62,7 @@ counter-reset: h2num;
     counter-reset: h3num;    
   }
 
-  h2.entry-title:before{
+  h2.entry-content:before{
            content: counter(h2num);
     font-weight: bold;
     margin-left: -50px;
@@ -71,7 +71,7 @@ counter-reset: h2num;
     width: 50px;
     margin-right: 10px;
   }
-  h3.entry-title {background: #26c6da;
+  h3.entry-content {background: #26c6da;
     padding: 6px;
     color: white;
     border-left: 50px #1A95A5 solid;
@@ -81,7 +81,7 @@ counter-reset: h2num;
     counter-increment: h3num;}
 
 
-    h3.entry-title:before {
+    h3.entry-content:before {
 
         content: counter(h2num)"."counter(h3num);
         font-weight: bold;
