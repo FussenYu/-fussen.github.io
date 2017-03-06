@@ -20,8 +20,8 @@ layout: default
                     </div>
                     <h1>{{ page.title }}</h1>
                     {% if page.subtitle %}
-                    <h2>{{ page.description }}</h2>
-                    {% endif %}
+                    <h2>{{ page.title }}</h2>
+                     {% if page.subtitle %}
                     <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
