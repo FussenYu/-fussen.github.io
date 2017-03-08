@@ -10,400 +10,130 @@ header-img: "img/me.jpg"
  我所有的自负都来自我的自卑，所有的英雄都来自我内心的软弱，所有的振振有词都因为心中满是怀疑。我假装无情，其实是痛恨自己的深情。我以为人生的意义在于四处游荡流亡，其实只是掩饰至今没有找到愿意驻足的地方。
 
 
-	<!-- Main -->
-<article id="main">
+    <!-- 头像固定格式 -->
+    <section label="fussen" style="margin-top: 0.5em; margin-bottom: 0.5em; box-sizing: border-box;">
 
-				<!-- One -->
-					<section class="wrapper style2 container special-alt">
-						<div class="row 50%">
-							<div class="8u 12u(narrower)">
+                        <center>
+                            <section style="box-sizing: border-box;width: 4em;height: 4em;display: inline-block;vertical-align: bottom;border-radius: 100%;background-image: url(&quot;https://ww2.sinaimg.cn/large/006tKfTcgy1fdba6o441fj30qo0zktqi.jpg&quot;);background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;" class="">
+                                <br  />
+                            </section>
 
-								<header>
-									<h2>在他身上，有这些关键词：</h2>
-								</header>
-								<footer>
-									<ul class="buttons">
-										<li><span class="button jnbutton" >广东人</span></li>
-										<li><span class="button jnbutton" >北漂</span></li>
-										<li><span class="button jnbutton" >半个媒体人士</span></li>
-										<li><span class="button jnbutton" >翻墙推广者</span></li>
-										<li><span class="button jnbutton" >反互联网审查</span></li>
-										<li><span class="button jnbutton" >Google 铁杆粉丝</span></li>
-										<li><span class="button jnbutton" >猥琐大叔</span></li>
-										<li><span class="button jnbutton" >Mac 使用者</span></li>
-										<li><span class="button jnbutton" >产品研究者</span></li>
-										<li><span class="button jnbutton" >爱折腾</span></li>
-										<li><span class="button jnbutton" >Twitter 爱好者</span></li>
-										<li><span class="button jnbutton" >摄影爱好者</span></li>
-										<li><span class="button jnbutton" >分享者</span></li>
-										<li><span class="button jnbutton" >只用 Gmail</span></li>
-										<li><span class="button jnbutton" >传播研究者</span></li>
-										<li><span class="button jnbutton" >GTD 爱好者</span></li>
-										<li><span class="button jnbutton" >创业者</span></li>
-										<li><span class="button jnbutton" >效率大于一切</span></li>
-										<li><span class="button jnbutton" >追求产品细节</span></li>
-										<li><span class="button jnbutton" >上了名单的被喝茶者</span></li>
-										<li><span class="button jnbutton" >科技崇拜者</span></li>
-									</ul>
-								</footer>
-
-							</div>
-							<div class="4u 12u(narrower) important(narrower)">
-
-								<ul class="featured-icons">
-									<li><span class="icon fa-clock-o" title="效率"><span class="label">效率</span></span></li>
-									<li><span class="icon fa-volume-up" title="传播"><span class="label">传播</span></span></li>
-									<li><span class="icon fa-laptop" title="科技崇拜"><span class="label">科技崇拜</span></span></li>
-									<li><span class="icon fa-inbox" title="邮件爱好者"><span class="label">邮件爱好者</span></span></li>
-									<li><span class="icon fa-lock" title="重视隐私与安全"><span class="label">重视隐私与安全</span></span></li>
-									<li><span class="icon fa-cog" title="爱折腾"><span class="label">爱折腾</span></span></li>
-								</ul>
-
-							</div>
-						</div>
-					</section>
-
-</article>
-
-								
-			<article id="products">
-				<!-- Three -->
-					<section class="wrapper style3 container special">
-
-						<header class="major">
-							<h2>代表作品</h2>
-						</header>
-
-						<div class="row">
-							<div class="6u 12u(narrower)">
-
-								<section>
-									<h3 class="jnbigtext" style="color:#299480;"><span class="icon fa-rss"> </span>可能吧</h3>
-									<p style="font-size:1.0rem;line-height:1.8rem;">Jason Ng 是可能吧的创始人。<a href="https://kenengba.com">可能吧</a>最早是 Jason 的个人博客，后来变成了群体博客，对于大多数人来说，对可能吧印象最深刻的有2点：对网络审查辛辣的评论，以及出色的文章排版。在那个不太注重排版的年代，可能吧开创了「可扫描式」阅读的先河。</p>
-								</section>
-
-							</div>
-							<div class="6u 12u(narrower)">
-
-								<section>
-									<h3 class="jnbigtext" style="color:#6CC9F2"><span class="icon fa-neuter"> </span>轻单</h3>
-									<p style="font-size:1.0rem;line-height:1.8rem;">Jason Ng 是轻单的创始人。<a href="https://qdan.me">轻单</a>是移动互联网碎片化时代扫描式阅读的产物，轻单视图让用户用结构化、简介的方式创建和重新整理内容，并与其他人分享，让其他人可以在手机上，在数分钟时间就能把内容消化完毕。</p>
-								</section>
-
-							</div>
-						</div>
-						<div class="row">
-							<div class="6u 12u(narrower)">
-
-								<section>
-									<h3 class="jnbigtext" style="color:#37B7C2;"><span class="icon fa-tree"> </span>极客公园</h3>
-									<p style="font-size:1.0rem;line-height:1.8rem;">离开极客公园前，Jason Ng 是极客公园的 CEO 。2009 年加入《商业价值》杂志，他与主编张鹏一起创立了<a href="https://www.geekpark.net/">极客公园</a>，一个推崇「科技改变商业，极客改变世界」的商业组织，可以说，「极客」这个词在中国的普及，与极客公园密不可分。</p>
-								</section>
-
-							</div>
-							<div class="6u 12u(narrower)">
-
-								<section>
-								<h3 class="jnbigtext" style="color:#E8AD40;"><span class="icon fa-book"> </span>商业价值</h3>
-									<p style="font-size:1.0rem;line-height:1.8rem;"><a href="http://www.businessvalue.com.cn">《商业价值》</a>是一本视「科技为商业第一生产力」的杂志，Jason 是该客户端第一任的产品经理，他将结构化阅读的理念做到了客户端里。其 iOS 客户端曾经被苹果官方推荐，并获得不错的排名。</p>
-								</section>
-
-							</div>
-						</div>
-
-						<div class="row">
-							<div class="6u 12u(narrower)">
-
-								<section>
-									<h3 class="jnbigtext" style="color:#3bcc9a;"><span class="icon fa-graduation-cap"> </span>有可能学院</h3>
-									<p style="font-size:1.0rem;line-height:1.8rem;">第二次创业，Jason Ng 创办了<a href="https://www.yokeneng.com/">有可能学院</a>，一个线下与线上相结合的，面向互联网从业者的职业培训机构。从研发教材到迭代教学方式，Jason Ng 希望用最大的努力，为互联网从业者的职业生涯打造新的可能性</p>
-								</section>
-
-							</div>
-
-						</div>
-
-					</section>
-
-			</article>
-
-		<!-- CTA -->
-			<section id="cta">
-
-				<header>
-					<h2>他的网络时间线</h2>
-					<p>Jason Ng 在网上做过的事</p>
-				</header>
-
-			</section>
-						
-				<section id="cd-timeline" class="cd-container">
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>中华社区 Chinese-Home</h2>
-				<p>第一个个人网站，主要功能是聊天室，现已无法访问。</p>
-
-				<span class="cd-date">2003</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>可能吧</h2>
-				<p>开始经营独立博客<a href="http://www.kenengba.com">可能吧</a>，因为在中文博客圈子里获得了认可，<br>受邀在<a href="http://tech.163.com/09/0822/16/5HB7UAGB00093L9L.html">Wordcamp 2009</a>、第五届中文网志年会、<a href="http://www.plogit.cn/index.php?controller=speaker">PlogIt 2009</a>等活动上演讲。</p>
-
-				<span class="cd-date">2007</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>阿禅日记</h2>
-				<p>2008年，开始写网络日记<a href="http://blog.kenengba.com">阿禅日记</a>记录生活中的一些琐碎事情。</p>
-
-				<span class="cd-date">2008</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-	<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-movie">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content ">
-				<h2>Twitter </h2>
-				<p>注册了Twitter（ID：<a href="http://twitter.com/jason5ng32">jason5ng32</a>），到目前为止已经获得了超过100000个followers。</p>
-
-				<span class="cd-date">2008</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->					
+                            <p>
+                                <span style="font-size: 14px;color: rgb(102, 204, 197);line-height: 1.6;"><a href="http://fussen.cc/about">Fussen</a>
+                                </span>
+                            </p>
+                        </center>
+      </section>
 
 
 
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-location">
-			</div> <!-- cd-timeline-img -->
-			<div class="cd-timeline-content">
-				<h2><span class="icon fa-trophy" style="color:rgb(255, 155, 0);"></span> IT 新闻奖</h2>
-				<p>「可能吧」获得了搜狐颁发的<a href="http://it.sohu.com/20100121/n269750413.shtml">IT新闻奖-年度优秀博客奖</a>。</p>
 
-				<span class="cd-date">2009</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-movie">
-			</div> <!-- cd-timeline-img -->
+<!-- 文章内容固定格式 -->
 
-			<div class="cd-timeline-content">
-				<h2>ChinaMode-中文互联网开放式评选</h2>
-				<p>在「可能吧」联合其它独立博客举办了「<a href="http://chinamode.org/">ChinaMode-中文互联网开放式评选</a>」活动。</p>
-
-				<span class="cd-date">2009</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>推滔</h2>
-				<p>建立了<a href="http://twittalk.org">推滔</a>网站，用以组织Twitter用户线下聚会。</p>
-
-				<span class="cd-date">2009</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-movie">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>声援 Google</h2>
-				<p>Google宣布将搜索业务撤出中国，因为在博客上声援Google、<br>谴责中国政府的不透明审查制度，「可能吧」遭中国网络防火墙（GFW）屏蔽</p>
-				<span class="cd-date">20100323</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-location">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2><span class="icon fa-trophy" style="color:rgb(255, 155, 0);"></span> 最佳中文博客奖</h2>
-				<p>可能吧获得<a href="http://www.thebobs.com/index.php?l=zh&amp;s=1154893154682279QQCXSYUE-1255011504708337QNLKKMAW">第六届德国之声最佳中文博客奖</a>。被邀请前往德国领奖。</p>
-				<span class="cd-date">20100415</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>极客公园</h2>
-				<p>参与的社区项目<a href="http://www.geekpark.net">极客公园</a>上线。</p>
-				<span class="cd-date">20100608</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>商业价值 iPhone 客户端</h2>
-				<p>作为产品经理参与的项目<a href="http://itunes.apple.com/app/id388097988?mt=8">商业价值 iPhone 客户端 1.0 </a>上线。</p>
-				<span class="cd-date">2010</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-movie">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>InnoAward</h2>
-				<p>作为组织者之一组织<a href="http://www.geekpark.net/static/innovapps/">2010中国互联网创新产品评选</a>。</p>
-				<span class="cd-date">2010</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-movie">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>极客公园系列活动</h2>
-				<p>连续组织了多次面向互联网产品经理的关于互联网热点的线下活动：<a href="http://www.geekpark.net/event/">极客公园线下活动系列 </a>。目前已经举办超过100期活动。</p>
-				<span class="cd-date">2010</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-movie">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>中国互联网研究年会</h2>
-				<p>应乔治城大学的邀请，前往华盛顿参加中国互联网研究年会。</p>
-				<span class="cd-date">201105</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>商业价值 Android 客户端</h2>
-				<p>作为产品经理参与的项目<a href="http://www.businessvalue.com.cn/android/">商业价值 Android 客户端 1.0 </a>上线。</p>
-				<span class="cd-date">201202</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-movie">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>第三届极客公园创新大会</h2>
-				<p>组织超过3000人次参与的<a href="http://www.geekpark.net/event/view/review/168668"> 第三届极客公园创新大会</a>，Google 董事长、前CEO Eric Schmidt 也参加了本次大会。</p>
-				<span class="cd-date">201301</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-location">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2><span class="icon fa-trophy" style="color:rgb(255, 155, 0);"></span> Media of Future</h2>
-				<p>在<a href="http://www.forumdavos.com/">World Communication Forum</a> 活动上，被授予「<a href="http://www.forumdavos.com/awards/2013">Media of Future</a>」奖。</p>
-				<span class="cd-date">201302</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-movie">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>沃兹大叔</h2>
-				<p>2014年1月，参与并组织了超过3000人次参与的<a href="http://gif.geekpark.net"> 极客公园创新大会2014</a>，苹果联合创始人沃兹也参加了本次大会。</p></p>
-				<span class="cd-date">201401</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-				<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>离职创业</h2>
-				<p>以 CEO 身份离开工作了4年多的极客公园，开始了新一段的创业旅程。</p>
-				<span class="cd-date">20140626</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->	
-		
-     	<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>轻单</h2>
-				<p>创业的第一个产品，「<a href="https://qdan.me" >轻单</a>」是一个让用户可以以结构化的方式组织内容并分享的社区。</p>
-				<span class="cd-date">201501</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->																
-				
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-			<div class="cd-timeline-content">
-				<h2>5wei OS</h2>
-				<p>以合伙人身份，加入五味科技。五味科技可能是唯一为了想做一套完美的餐饮管理系统而开了数家餐厅的科技公司。</p>
-				<span class="cd-date">201510</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->		
+<div class="entry-content">
 
 
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-			</div> <!-- cd-timeline-img -->
-			<div class="cd-timeline-content">
-				<h2>有可能学院</h2>
-				<p>第二次创业，「<a href="https://yokeneng.com" >有可能学院</a>」是一个为互联网人群打造职业新可能性的培训机构。</p>
-				<span class="cd-date">201606</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->	
-		
-		
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-location">
-			</div> <!-- cd-timeline-img -->
 
-			<div class="cd-timeline-content">
-				<h2>国际访问者领导计划（IVLP）</h2>
-				<p>受美国政府邀请，Jason Ng 前往美国进行为期一个月的交流访问，研究课题为「社会企业」。</p>
-				<span class="cd-date">201608</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-		
-		
-	</section> <!-- cd-timeline -->
-			
+    <!-- 标题统一格式 -->
+    <h1 class="entry-title">你可能已经被你的公司列入到开除名单中了</h1>
+
+
+    <h2>华为裁员事件</h2>
+
+    <p>这个话题有点沉重，我看到也会心里发颤，但是不得不聊一聊了，想象一下，要是你现在被你的公司开除了，你会面临什么样的问题，失业，社保中断，如果已买房的，房贷没办法还，家里有小孩的，负担可能就会更重！最严重的问题就是自己还能不能找到一份可以养活一家老小的工作。</p>
+
+    <p>前两天一篇网文被热议，大意是一位通信行业的中年男人即将被公司辞退面临失业，还不起房贷。从信息看，通信公司待遇是基本工资+奖金+股票分红的，很有可能是华为的员工，华为的研发部开始集中清退40岁以上的老员工，其实，华为裁员并不是新闻，华为的人员流动一直比较大，但是出现以年龄裁人的传言，这还是第一次，这让华为内部外部震动都很大。
+    </p>
+
+    <p>同时就在这两天，华为老总任正非对近期网传的华为清理34岁老员工一事进行了回应，任正非谈到了34岁退休问题，明确表示华为没有退休金，公司只为在职员工买社保、医保、意外伤害保险等。而且，华为不可能为不奋斗者支付钱财。30多岁别光想躺床上数钱，华为不养吃白饭的人。</p>
+
+    <p>从这个事件可以看出来，公司和员工好像都没有什么错，都有自己的理由，任正非说华为不养白吃饭的人，也就是说，上面提到的中年男子在华为吃了白饭了，所以人家不要你了，但是呢，据他发表的文章看，他自己是位研究生，在公司也勤勤恳恳，从来不敢懈怠，能加班就加班，能早去就早去，领导一点不满，就紧张好多天，生怕丢了工作，可到头来还是不得不离职，入不敷出。</p>
+
+    <p>好像他们各自所说的都有点矛盾，对不上号</p>
+
+    <p>说到底，其实也很简单，你为公司付出，公司给你回报，这没有问题，但是呢，公司毕竟不是国企，钱可以随便花，人可以随便养，他们都会讲究成本问题，不管什么因素，他们都会把公司的利益放在第一位的，如果公司不盈利，他们也就没有钱来请你干活，相反，如果他们公司没有钱，你也不会去，都是相互的，利益也是相互的</p>
+    
+    <p>所以公司开除员工，很正常，员工主动离开公司也很正常，大不了，公司给你赔点钱也就了事了</p>
+
+
+    <p>
+        <img  height="500" src="https://ww4.sinaimg.cn/large/006tNc79gy1fddfsr4k6gj30cf0bct9c.jpg" width="365" />
+    </p>
+
+    <h2>公司如何开除你</h2>
+
+    <p>我见过很多公司开除人的招数，而且都是合情合理，让你不得不防</p>
+
+    <p>其中有一个公司由于项目时间比较赶，人手又比较缺，于是大量招人，招来的人的试用期还比较长，没有过多长时间，公司的活干完了，这些人的试用期当然也还没有到，于是公司就把这批刚招进来的人全部开除，而且还不用赔偿</p>
+
+
+    <p>虽然听起来比较冷血，<strong>但是公司就是这样，无情</strong></p>
+
+
+<p>
+        <img  height="500" src="https://ww4.sinaimg.cn/large/006tNc79gy1fddfs9kavkj30by08hq2x.jpg" width="365" />
+    </p>
+
+
+    <p>一个公司的建立和运行，和一个国家的建立和运行都是比较像的，为什么这么说呢，其实现在有大量的实例可以证明这一点，一个国家建立的初期，总会有一批最初的人来打天下，从古至今都是这样，打下天下之后，开始分配财富和权利，这个时候就体现出来了人性，人都是自私的，古代的皇帝也是一样，暂时不拿现代的人做对比，他们也想把所有的利益都让自己拥有，而不是分享给他人，也就是陪他打天下的人，所以就会出现国家一旦被建立，先杀的必定是为这个国家立国功的人这一现象，皇帝就是担心这些人会起兵造反，威胁他自己的利益，索性不如统统杀掉，皇帝杀个人，可以说是一如反掌。</p>
+
+
+    <p>现在的公司也一样，公司的创业初期都会有创始人还有合伙人，一旦公司有所发展，这个时候，创始人就开始清理合伙人，将合伙人直接踢出局，然后自己坐享其成，这些案例我想大家都有见到，所以也就不举例子了</p>
+
+
+
+    <h3>那么公司如何开除你？</h3>
+
+
+    <p>一个公司开除员工的方法不下10000种（夸张修辞），就拿华为来说，也就是上面提到的例子，这个中年男子说自己在公司勤勤恳恳，能加班就加班，你说他不努力？我相信肯定不是这样的，即使再怎么不努力，没有功劳，苦劳总该有吧，据他自己说，当时HR找他谈过话，意思就是想让他自己主动离职，其实这已经很人情化了，即使你自己不主动提出来，他们还是会有办法让你离开，华为内部都有个打分制，分A，B，C，等算是绩效吧，人家可以直接给你打个C级，最低的，这个时候你也就被人家光明的淘汰了，谁也不知道C级的真假，这个时候你只能灰溜溜的离开公司，而且还是背着业绩差的名声离开华为，想象下，谁还会要你？</p>
+
+
+    <h2>你也可能会被公司开除</h2>
+
+
+    <p>每个人都有被公司开除的可能，不分级别，更不分什么学历，只有利益才不会被开除</p>
+
+    <p>如果有一天，你感觉自己在公司好闲，没有事干，这个时候，你要想一想，你是不是已经在公司即将开除人员的备选名单里了，没有一个公司会为了给你找一份事干而留住你的，至少这个世界上没有这么个公司，除了国企</p>
+
+    <p>生存本来就很难，从原始社会开始，一直到现在都没有改变这种现状，自然选择，强者适存</p>
+
+
+    <p>所以你才会看到在大城市中，人都是很匆忙的，好像稍微停下就会被淘汰，舒服是留给死人，一点都没有错，竞争才是常态，也是最真实的生活</p>
+
+
+    <h2>如何才能不被公司开除</h2>
+
+    <p>大家都知道，换一份工作的代价还是比较大的，有可能换一份工作就等于换了一个行业，你得从零开始，这种结果还是比较好的，然而有些人，离开了目前的岗位，甚至都不知道自己还能干什么，能做什么！这才是最可怕的，做了10来年的工作，突然不让做了，自己又不会干别的，这种感觉比死还难受！</p>
+
+    <p>想要避免，就得有危机意识，没有危机意识，一句话，等死吧</p>
+
+
+    <h3>如何避免被公司开除：</h3>
+
+
+<ol>
+        <li>
+                勤勤恳恳，工作要有上进心，事事为公司着想，保证完成公司分配的任务，做到了这一点，如果公司业务正常，一般是不会开你的
+            </li>
+        <li>
+            不能只会做你的分内的事，多学习，多干事，最后这些都是你自己的，公司看到你还知道学习，就认为你还是比较有上进心的，他们还是愿意培养你，而不是直接开除你，当然要是遇到公司业务不正常，那也没辙，即使你会的比较多
+        </li>
+
+        <li>
+            这一点最重要，那就是要有自己的事业，这个事业可以很小但是必须得有，这样既可以增加自己的收入，也可以作为自己的后路，如果你目前没有这样的事业，那么这个时候，我想你应该考虑如何部署了，而不是一味的等着，要是哪天公司开除你，你也就离死不远了
+
+        </li>
+    </ol>
+
+
+<p>以上说的三点当中，最后一点就是我想给大家说的，即使你会的再多，也都是给别人干事，一旦出现问题谁也不能保证你能不受到伤害，连公司的合伙人都能被踢出局，何况你我，更是不在话下</p>
+
+
+<p>我深知，农村出来的孩子，不努力就更没出路，你我能走到今天，靠的是什么，靠的并不是自己的父母，而是自己，所以用别人的公司作为平台来为自己杀出一条血路来吧</p>
+
+  
+
+</div>
 
 
 
