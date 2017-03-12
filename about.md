@@ -13,10 +13,10 @@ header-img: "img/me.jpg"
 
 ###联系
 
-- [博客：www.fussen.cc](www.fussen.cc)
+- [博客：fussen.cc](fussen.cc)
 
 
-- 公众号：FussenBlog
+- 公众号：AppCode
 
 
 <center>

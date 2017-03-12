@@ -5,7 +5,7 @@ description: "标签库"
 header-img: "img/semantic.jpg"  
 ---
 
-##本页待开发中
+点击任意你感兴趣的标签，自动会跳出该标签下的所有文章
 
 
 ##文章列表

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "正在整理这块"
+title: "时间轴"
+description: "所有的文章都在这"
 header-img: "img/orange.jpg"
 ---
 
