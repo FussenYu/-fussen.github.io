@@ -5,10 +5,10 @@ description: "标签库"
 header-img: "img/semantic.jpg"  
 ---
 
-点击任意你感兴趣的标签，自动会跳出该标签下的所有文章
+#点击任意你感兴趣的标签，自动会跳出该标签下的所有文章
 
 
-##文章列表
+#标签列表
 
 
 <div id='tag_cloud'>
@@ -16,6 +16,7 @@ header-img: "img/semantic.jpg"
 <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
 </div>
+
 
 <ul class="listing">
 {% for tag in site.tags %}
