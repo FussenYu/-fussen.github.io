@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "关于我"
 description: "一路走来，谁都不容易，我也是 "
 header-img: "img/me.jpg"
 ---
