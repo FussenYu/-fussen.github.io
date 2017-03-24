@@ -351,6 +351,10 @@ top: 50%;
     font-family: Glyphicons;
     content: "\e046";
 }
+.icon-calendar:before{font-family:Glyphicons;content:"\e046";}
+.icon-router:before{
+font-family:Glyphicons;content:"\e047";
+}
 
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
@@ -381,7 +385,7 @@ top: 50%;
   margin-top: 0;
   }
 
-  
+
 
 
 .post-preview > a {
