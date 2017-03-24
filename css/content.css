@@ -94,17 +94,13 @@ color: #E87753;
 }
 .entry-content p {
 padding-left: 14px;
+letter-spacing: 1.6px;
 }
 
 
 .entry-content ol li {
     padding-left: 10px;
     margin-left: 1px;
-}
-
-.entry-content ol li::before {
-    content: "# ";
-    color: #42C994;
 }
 
 .entry-content ul li {
