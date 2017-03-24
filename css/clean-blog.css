@@ -338,7 +338,7 @@ padding-top: 9px;
 
 div#author_i_home {
 height: 56px;
-    margin-left: 20px;
+    padding-left: 20px;
 }
 
 i.glyphicons {
@@ -430,8 +430,8 @@ font-family:Glyphicons;content:"\e047";
     margin: 0;
     margin-bottom: 30px;
     border-left: 12px #3AAA7D solid;
-    margin-left: -17px;
-    padding-left: 20px;
+    margin-left: -15px;
+    padding-left: 15px;
   }
   .post-preview > a > .post-subtitle {
     font-size: 16px;
