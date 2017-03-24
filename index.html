@@ -36,7 +36,7 @@ description: "分享开发技巧以及个人观点，关于互联网、趣味信
     </a>
 
     <p class="post-meta">
-        <img alt="Artboard 1" height="350" src="https://c2.staticflickr.com/8/7415/27858552885_93ccbce3f9_o.png" width="700">
+        <img alt="Artboard 1" height="350" src="{{ post.src }}" width="700">
     </p>
 
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
