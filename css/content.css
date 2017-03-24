@@ -8,6 +8,7 @@ body {
   background: #eee;
   font-size: 15.5px;
   left: 0;
+  color: #666;
 }
 body.basic {
     color: #666;
