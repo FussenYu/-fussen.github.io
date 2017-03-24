@@ -16,7 +16,6 @@ description: "分享开发技巧以及个人观点，关于互联网、趣味信
         </h3>
         {% endif %}
 
-
         <div id="author_i_home">
             <div class="author_av_home">
                 <img alt='' src='https://ww2.sinaimg.cn/large/006tKfTcgy1fdba6o441fj30qo0zktqi.jpg' class='avatar avatar-40 photo' height='40' width='40' /></div>
@@ -26,8 +25,6 @@ description: "分享开发技巧以及个人观点，关于互联网、趣味信
                 <i class="glyphicons icon-calendar">
                 </i>
                  <abbr title="{{ post.date | date: "%Y 年 %m 月 %-d 日" }}">{{ post.date | date: "%Y 年 %m 月 %-d 日" }}</abbr>
-                 
-
 
             </div>
         </div>
@@ -37,6 +34,11 @@ description: "分享开发技巧以及个人观点，关于互联网、趣味信
             {{ post.description | strip_html | truncate:150 }}
         </div>
     </a>
+
+    <p>
+        <img alt="Artboard 1" height="350" src="https://c2.staticflickr.com/8/7415/27858552885_93ccbce3f9_o.png" width="700">
+    </p>
+
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 
