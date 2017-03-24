@@ -291,6 +291,69 @@ hr.small {
     padding-bottom: 15px;
     padding-top: 15px;
 }
+
+/*photo*/
+img.avatar.avatar-60.photo {
+border-radius: 30px;
+float: left;
+height:60px;
+}
+
+img.avatar.avatar-40.photo {
+border-radius: 20px;
+float: left;
+margin: 0;
+box-shadow: none;
+border: none;
+margin-right: 12px;
+height:40px;
+}
+
+img.avatar.avatar-30.photo {
+border-radius: 30px;
+float: left;
+height:30px;
+}
+
+
+img {
+border-radius: 2px;
+box-shadow: 3px 3px 0px 0px #97B5A1;
+border: 1px #099937;
+border-style: solid;
+padding: 3px;
+margin: auto;
+display: block;
+margin-top: 20px;
+margin-bottom: 20px;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.po_author_home {
+font-size: 13px;
+color: #AAA;
+padding-top: 9px;
+}
+
+div#author_i_home {
+height: 56px;
+}
+
+i.glyphicons {
+vertical-align: middle;
+top: 50%;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  text-decoration: inherit;
+  display: inline-block;
+  speak: none;
+}
+
+
 .post-preview > a {
   color: #404040;
 }
