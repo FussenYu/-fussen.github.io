@@ -9,7 +9,10 @@ body {
   font-size: 15.5px;
   left: 0;
 }
-
+body.basic {
+    color: #666;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
 
 .entry-title {
 font-size: 3.0rem;
