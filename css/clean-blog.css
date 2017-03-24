@@ -288,8 +288,7 @@ hr.small {
 }
 .post-preview{
   background: #fff;
-    padding-bottom: 15px;
-    padding-top: 15px;
+    padding: 15px;
 }
 
 /*photo*/
@@ -431,7 +430,7 @@ font-family:Glyphicons;content:"\e047";
     margin: 0;
     margin-bottom: 30px;
     border-left: 12px #3AAA7D solid;
-    margin-left: -1px;
+    margin-left: -17px;
     padding-left: 20px;
   }
   .post-preview > a > .post-subtitle {
@@ -439,7 +438,8 @@ font-family:Glyphicons;content:"\e047";
   }
   .post-preview .post-meta {
     font-size: 18px;
-    margin: 30px;
+        padding-left: 27px;
+    padding-right: 27px;
   }
 }
 .post-content-preview {
@@ -453,7 +453,9 @@ font-family:Glyphicons;content:"\e047";
 @media only screen and (min-width: 768px) {
   .post-content-preview {
     font-size: 15px;
-    margin: 30px;
+        padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 15px;
   }
 }
 .section-heading {
