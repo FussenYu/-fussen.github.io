@@ -16,6 +16,8 @@ description: "分享开发技巧以及个人观点，关于互联网、趣味信
         </h3>
         {% endif %}
 
+    </a>
+
         <div id="author_i_home">
             <div class="author_av_home">
                 <img alt='' src='https://ww2.sinaimg.cn/large/006tKfTcgy1fdba6o441fj30qo0zktqi.jpg' class='avatar avatar-40 photo' height='40' width='40' /></div>
@@ -33,7 +35,6 @@ description: "分享开发技巧以及个人观点，关于互联网、趣味信
         <div class="post-content-preview">
             {{ post.description | strip_html | truncate:150 }}
         </div>
-    </a>
 
     <p class="post-meta">
         <img alt="No Photo" src="{{ post.src }}" width="700">
