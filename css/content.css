@@ -6,7 +6,7 @@ body {
   -o-transition: left 0.25s ease-in-out;
   transition: left 0.25s ease-in-out;
   background: #eee;
-  font-size: 16px;
+  font-size: 15.5px;
   left: 0;
 }
 
@@ -23,7 +23,7 @@ padding-left: 20px;
 
 .entry-content {
 position: relative;
-font-size: 15px;
+font-size: 15.5px;
 line-height: 2.4;
 background: white;
 padding: 18px;
@@ -99,7 +99,7 @@ padding-left: 14px;
 
 .entry-content ol li {
     padding-left: 10px;
-    margin-left: 15px;
+    margin-left: 1px;
 }
 
 .entry-content ol li::before {
@@ -141,7 +141,6 @@ blockquote {
 }
 blockquote:before {
   color: #ccc;
-  content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
   margin-right: 0.25em;
