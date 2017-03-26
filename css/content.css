@@ -127,6 +127,10 @@ margin: auto;
 display: block;
 margin-top: 20px;
 margin-bottom: 20px;
+    max-width: 100%;
+    max-width: 550px;
+    height: auto;
+    width: auto;
 }
 
 
