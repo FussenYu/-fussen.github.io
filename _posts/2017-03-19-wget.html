@@ -1,0 +1,96 @@
+---
+layout: post
+title: mac下wget安装教程
+date: 2017-04-04
+categories: blog
+tags: [技巧]
+description: 现如今，朋友圈能够引起刷屏的，除了某些人的心灵鸡汤，还有就是一些低龄儿童玩的什么的测测你的命运之类的无聊游戏，好像在也没有什么能够引起刷屏，真是悲哀至极！
+src: https://ww1.sinaimg.cn/large/006tNc79gy1fe0d2zfibcj30go0dwgmx.jpg
+
+---
+
+
+
+
+    <!-- 头像固定格式 -->
+    <section label="fussen" style="margin-top: 0.5em; margin-bottom: 0.5em; box-sizing: border-box;">
+
+                        <center>
+                            <section style="box-sizing: border-box;width: 4em;height: 4em;display: inline-block;vertical-align: bottom;border-radius: 100%;background-image: url(&quot;https://ww2.sinaimg.cn/large/006tKfTcgy1fdba6o441fj30qo0zktqi.jpg&quot;);background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;" class="">
+                                <br  />
+                            </section>
+
+                            <p>
+                                <span style="font-size: 14px;color: rgb(102, 204, 197);line-height: 1.6;"><a href="http://fussen.cc/about">Fussen</a>
+                                </span>
+                            </p>
+                        </center>
+      </section>
+
+
+<!-- 文章内容固定格式 -->
+
+<div class="entry-content">
+
+
+
+    <!-- 标题统一格式 -->
+    <h1 class="entry-title">mac下wget安装教程</h1>
+
+
+ <img src="https://ww1.sinaimg.cn/large/006tNc79gy1fe0d2zfibcj30go0dwgmx.jpg"/>
+
+
+<h2>安装wget</h2>
+
+<p>Homebrew是一款非常强大的可以应用在MAC中的Linux管理包。</p>
+
+<ol>
+	<li>执行安装brew</li>
+</ol>
+
+<p>进入终端之后，执行brew的安装</p>
+
+<blockquote>
+<p>ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</p>
+</blockquote>
+
+<ol>
+	<li> 安装 wget</li>
+</ol>
+
+<blockquote>
+<p>brew install wget</p>
+</blockquote>
+
+<p>执行完毕之后，我们就可以用wget命令下载远程文件。</p>
+
+<h3>wget下载命令</h3>
+
+<p>• -c 断点续传</p>
+
+<p>• -r 递归下载，下载指定网页某一目录下（包括子目录）的所有文件</p>
+
+<p>• -nd 递归下载时不创建一层一层的目录，把所有的文件下载到当前目录</p>
+
+<p>• -np 递归下载时不搜索上层目录。</p>
+
+<p>• -k 将绝对链接转为相对链接，下载整个站点后脱机浏览网页，最好加上这个参数</p>
+
+<p>• -L 递归时不进入其它主机，如wget -c -r www.xxx.com/ 如果网站内有一个这样的链接： www.yyy.com，不加参数-L，就会像大火烧山一样，会递归下载www.yyy.com网站</p>
+
+<p>• -p 下载网页所需的所有文件，如图片等</p>
+
+<p>• -A 指定要下载的文件样式列表，多个样式用逗号分隔</p>
+
+<h3>下载整个网站</h3>
+
+<blockquote>
+<p>wget -U &quot;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5)&quot; -r -p -k -nc http://www.xxx.com</p>
+</blockquote>
+
+<p>• -U 修改agent，伪装成firefox等浏览器，当某些网站拒绝下载的时候，加上这个参数就可以下载了。</p>
+
+<p>• -p 下载页面显示所需的所有文件。</p>
+
+</div>
