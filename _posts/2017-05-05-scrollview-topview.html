@@ -37,7 +37,7 @@ src: http://ww4.sinaimg.cn/large/006tNbRwgy1ffafjsk0foj31hc0vnawf.jpg
 <h2>效果</h2>
 
 <p>
-  <img  height="400" src="http://ww4.sinaimg.cn/large/006tNbRwgy1ffaai9yg57g30940gbq9l.gif" width="150" />
+  <img  height="400" src="http://ww4.sinaimg.cn/large/006tNbRwgy1ffaai9yg57g30940gbq9l.gif" width="100" />
 </p>
 <p>大家可以看到，上面被固定的布局里也有他自己的状态。</p>
 
@@ -53,48 +53,7 @@ src: http://ww4.sinaimg.cn/large/006tNbRwgy1ffafjsk0foj31hc0vnawf.jpg
 	<li>以上的做法也就实现了我们想要的功能，这只是一种思路，具体如何运用，那就要看大家的想象力了。</li>
 </ol>
 
-<h2>部分代码</h2>
 
-	
-
-<div class="highlighter-rouge">
- /**
-	 * 必须要放到post中去   这是Android4.4以下的bug 为的只是防止并发操作view
-	 * @param scrollY
-	 */
-	private void onScroll(final int scrollY) {
-
-		post(new Runnable() {
-			@Override
-			public void run() {
-				if (mTopView == null) return;
-
-				if (scrollY >= mTopViewTop && mTopView.getParent() == mContentView) {
-
-					mContentView.removeView(mTopView);
-					addView(mTopView);
-
-				} else if (scrollY < mTopViewTop && mTopView.getParent() == SmartScrollView.this) {
-					removeView(mTopView);
-					//添加到LinearLayout角标为1处
-					mContentView.addView(mTopView,1);
-				}
-			}
-		});
-
-
-	}
-</div>
-
-
-
-<p><strong>如果不将删除view和添加view的操作放到post中去就会报错</strong></p>
-
-<blockquote>
-<p>android.view.ViewGroup.dispatchDraw</p>
-</blockquote>
-
-<p>这是因为删除和添加的动作没有在一个线程工作，出现了并发操作，在绘制view的时候，4.4以下系统没有判断是否为空。</p>
 
 <h2>获取源码</h2>
 
